@@ -12,7 +12,7 @@ Hi there 👋
 
 🫳 How to reach me : https://www.linkedin.com/in/mohammad-adnan-chowdhury-36150359/
 
-🤵 Pronouns:He/Him
+🤵 Pronouns:He/Him.
 
 🎸  Fun Fact: I play guitar.
 
