@@ -10,7 +10,7 @@ Hi there 👋
 
 💁🏻 Do not hesitate for discussing problems regarding software development,I am up for doing help.
 
-🫳 How to reach me : https://www.linkedin.com/in/mohammad-adnan-chowdhury-36150359/
+🫳 How to reach me : https://www.linkedin.com/in/mohammad-adnan-chowdhury-36150359/ .
 
 🤵 Pronouns:He/Him.
 
