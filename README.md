@@ -61,6 +61,6 @@ Deepening my **Kubernetes** skills and preparing for the **CKA** while building 
 
 <div align="center">
 
-📚 Away from the terminal, you'll usually find me reading about **philosophy** or **neuroscience**, playing guitar, walking for hours, or somewhere near the mountains.
+📚 Away from the terminal, you'll usually find me reading about philosophy or neuroscience, playing guitar, walking for hours, or somewhere near the mountains 🏔️
 
 </div>
