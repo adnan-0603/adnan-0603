@@ -43,7 +43,6 @@ Infrastructure as Code**. That's the direction I'm building on now.
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
 
 **Currently:**
-
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![CKA](https://img.shields.io/badge/CKA%20Preparation-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Platform Engineering](https://img.shields.io/badge/Platform%20Engineering-000000?style=flat-square&logo=redhat&logoColor=white)
