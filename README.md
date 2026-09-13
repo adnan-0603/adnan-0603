@@ -30,7 +30,6 @@ Infrastructure as Code**. That's the direction I'm building on now.
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 **Data**
@@ -43,6 +42,13 @@ Infrastructure as Code**. That's the direction I'm building on now.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
 
+**Currently:**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![CKA](https://img.shields.io/badge/CKA%20Preparation-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Platform Engineering](https://img.shields.io/badge/Platform%20Engineering-000000?style=flat-square&logo=redhat&logoColor=white)
+![AI Infrastructure](https://img.shields.io/badge/AI%20Infrastructure-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
 
 ### 💼 Where I've worked
 
@@ -52,10 +58,10 @@ Infrastructure as Code**. That's the direction I'm building on now.
 
 ### 🚀 Currently
 
-Going deep on **Kubernetes** and preparing for the **CKA** — working toward **Platform & Infrastructure Engineering**.
+Deepening my **Kubernetes** skills and preparing for the **CKA** while building toward **AI Platform & Infrastructure Engineering**.
 
 <div align="center">
 
-🎸 *Off the keyboard, I play guitar.*
+📚 Away from the terminal, you'll usually find me reading about **philosophy** or **neuroscience**, playing guitar, walking for hours, or somewhere near the mountains.
 
 </div>
