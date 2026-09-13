@@ -59,8 +59,9 @@ Infrastructure as Code**. That's the direction I'm building on now.
 
 Deepening my **Kubernetes** skills and preparing for the **CKA** while building toward **AI Platform & Infrastructure Engineering**.
 
-<div align="center">
 
+<div align="center">
+ 
 📚 Away from the terminal, you'll usually find me reading about philosophy or neuroscience, playing guitar, walking for hours, or somewhere near the mountains 🏔️
 
 </div>
