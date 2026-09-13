@@ -3,7 +3,7 @@
 # Hi, I'm Adnan 👋
 
 ### Cloud & DevOps-focused Software Engineer
-*moving into Platform & Infrastructure Engineering*
+*Building toward AI Platform & Infrastructure*
 
 `Python` · `Azure` · `Docker` · `Terraform` · `CI/CD` · `Data Pipelines`
 
