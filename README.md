@@ -50,10 +50,11 @@ Infrastructure as Code**. That's the direction I'm building on now.
 
 
 ### 💼 Where I've worked
-
-- **Spekter GmbH** — built the **Redis**-buffered data pipeline for **flood early-warning systems** used by German municipalities (Python validation + ArcGIS terrain modelling on Azure).
-- **Siemens AG** — full-stack development plus **Azure** cloud operations: monitoring, access management via Entra ID, Python automation, and CI/CD support.
 - **Siemens Energy** — built **Snowflake → Pandas → Azure Blob** data pipelines, containerized workloads with **Docker** in **Azure DevOps**, and provisioned Azure storage with **Terraform**.
+- **Siemens AG** — full-stack development plus **Azure** cloud operations: monitoring, access management via Entra ID, Python automation, and CI/CD support.
+- **Spekter GmbH** — built the **Redis**-buffered data pipeline for **flood early-warning systems** used by German municipalities (Python validation + ArcGIS terrain modelling on Azure).
+
+
 
 ### 🚀 Currently
 
