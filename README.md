@@ -30,6 +30,7 @@ Infrastructure as Code**. That's the direction I'm building on now.
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 **Data**
@@ -42,9 +43,6 @@ Infrastructure as Code**. That's the direction I'm building on now.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
 
-**Learning**
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![CKA](https://img.shields.io/badge/CKA-in%20progress-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ### 💼 Where I've worked
 
