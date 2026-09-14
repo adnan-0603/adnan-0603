@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Adnan 👋
+# Hi, I'm Adnan 
 
 ### Cloud & DevOps-focused Software Engineer
 *Building toward AI Platform & Infrastructure*
