@@ -5,7 +5,7 @@
 ### Cloud & DevOps-focused Software Engineer
 *Building toward AI Platform & Infrastructure*
 
-`Python` · `Azure` · `Docker` · `Terraform` · `CI/CD` · `Data Pipelines`
+`Python` · `Azure` · `AWS` · `Docker` · `Terraform` · `CI/CD` · `Data Pipelines`
 
 📍 Bamberg, Germany
 
